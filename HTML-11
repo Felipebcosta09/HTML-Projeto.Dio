@@ -1,0 +1,124 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Página - Módulo I - Primeiros Passos com HTML</title>
+    </head>
+    <body>
+        <h1>Módulo 1 - Primeiros Passos com HTML</h1>
+        <hr />
+
+        <h2 id="Índice">Índice</h2>
+        
+            <li><a href="#História">História dos computadores</a></li>
+            <li><a href="#Clients">O que são <i>Clients</i>?</a></li>
+            <li><a href="#Servers">O que são <i>Servers</i>?</a></li>
+            <li><a href="#Estrutura">Como é uma estrutura básica de um HTML?</a></li>
+            <li><a href="#Lista">Entendendo a diferença entre listas ordenadas e não ordenadas</a></li>
+            <li><a href="#Link">Links de referências</a></li>
+        </ul>
+
+        <h2 id="História">História dos computadores</h2>
+        <p><strong>Com as aulas passadas estou confiante que consegui um bom entendimento da história por trás dessas belas máquinas e sua cronologia</strong></p>
+        <li><a href="#Índice"> Voltar ao início </a></li>
+    </ul>
+
+        <h2 id="Clients">O que são <i>Clients</i>?</h2>
+        <p><strong>Um cliente é um dispositivo de computação ou um programa que solicita e recebe serviços, recursos ou dados de um servidor. Por exemplo, um navegador da web é um cliente que solicita páginas da web a um servidor web. Um cliente de e-mail solicita e envia e-mails de e para um servidor de e-mail. Os clientes podem ser dispositivos físicos, como um laptop, smartphone ou tablet, ou podem ser programas de software que são executados em dispositivos de computação.</strong></p>
+        <li><a href="#Índice"> Voltar ao início </a></li>
+
+        <h2 id="Servers">O que são <i>Servers</i>?</h2>
+        <p><strong>Um servidor é um sistema de computador ou um programa que fornece recursos, serviços ou dados para outros computadores, chamados de clientes, através de uma rede. Por exemplo, um servidor web hospeda páginas da web e responde a solicitações de navegadores da web. Outros tipos de servidores incluem servidores de e-mail, servidores de arquivos, servidores de banco de dados, etc. Eles geralmente são configurados para fornecer serviços a vários clientes simultaneamente.
+
+        </strong></p>
+        <li><a href="#Índice"> Voltar ao início </a></li>
+
+        <h2 id="Estrutura">Como é uma estrutura básica de um HTML?</h2>
+        <p><strong>
+            Claro! Vou fornecer uma explicação em HTML simples que você pode incorporar em um texto HTML para descrever a estrutura de um documento HTML. Aqui está:
+
+            ```html
+            <!DOCTYPE html>
+            <html>
+            <head>
+                <title>Estrutura de um Documento HTML</title>
+            </head>
+            <body>
+                <h1>Estrutura de um Documento HTML</h1>
+                
+                <p>Um documento HTML (Hypertext Markup Language) segue uma estrutura básica composta por elementos principais. Aqui está uma visão geral da estrutura típica de um documento HTML:</p>
+                
+                <ol>
+                    <li>&lt;!DOCTYPE html&gt;: Esta declaração define o tipo de documento e versão do HTML sendo usada. Para HTML5, é simplesmente: &lt;!DOCTYPE html&gt;.</li>
+                    <li>&lt;html&gt;: Este elemento envolve todo o conteúdo HTML na página. É o elemento raiz do documento HTML e contém todo o conteúdo da página, como cabeçalho, corpo, etc.</li>
+                    <li>&lt;head&gt;: Esta seção contém informações sobre o documento HTML, como título, meta informações, estilos CSS, scripts, entre outros. Não é exibida diretamente na página, mas é usada pelo navegador e por mecanismos de busca.</li>
+                    <ul>
+                        <li>&lt;title&gt;: Define o título da página, que é exibido na barra de título do navegador ou na guia.</li>
+                    </ul>
+                    <li>&lt;body&gt;: Esta seção contém o conteúdo principal da página que será exibido no navegador. Pode incluir texto, imagens, vídeos, links, formulários, entre outros.</li>
+                </ol>
+            
+                <p>Dentro do &lt;body&gt;, você encontrará uma variedade de elementos HTML que organizam e estruturam o conteúdo da página. Alguns dos elementos mais comuns incluem:</p>
+                
+                <ul>
+                    <li>&lt;h1&gt; - &lt;h6&gt;: São cabeçalhos, com &lt;h1&gt; sendo o mais importante e &lt;h6&gt; o menos importante.</li>
+                    <li>&lt;p&gt;: Define um parágrafo de texto.</li>
+                    <li>&lt;a&gt;: Define um link para outra página ou recurso.</li>
+                    <li>&lt;img&gt;: Define uma imagem a ser exibida na página.</li>
+                    <li>&lt;ul&gt;/&lt;ol&gt;/&lt;li&gt;: Para criar listas não ordenadas (&lt;ul&gt;), listas ordenadas (&lt;ol&gt;) e os itens de lista (&lt;li&gt;).</li>
+                    <li>&lt;div&gt;/&lt;span&gt;: Elementos de divisão (&lt;div&gt;) e elementos de span (&lt;span&gt;) são usados para agrupar e estilizar blocos de conteúdo ou texto, respectivamente.</li>
+                    <li>&lt;form&gt;/&lt;input&gt;/&lt;button&gt;: Para criar formulários e os diferentes tipos de campos de entrada e botões.</li>
+                </ul>
+                
+                <p>Essa é apenas uma visão geral básica da estrutura de um documento HTML. Na prática, documentos HTML podem ser muito mais complexos, incorporando uma variedade de elementos e técnicas para criar páginas web interativas e visualmente atraentes.</p>
+                
+            </body>
+            </html>
+
+            
+            Este trecho de código HTML descreve a estrutura de um documento HTML, explicando cada elemento em um formato que pode ser facilmente incorporado em um texto HTML.
+            
+            </strong></p>
+        <li><a href="#Índice"> Voltar ao início </a></li>
+
+
+        <h2 id="Lista">Entendendo a diferença entre listas ordenadas e não ordenadas</h2>
+        <p><strong><!DOCTYPE html>
+            <html>
+            <head>
+                <title>Diferença entre Lista Ordenada e Não Ordenada</title>
+            </head>
+            <body>
+                <h1>Diferença entre Lista Ordenada e Não Ordenada</h1>
+                
+                <p>Lista Não Ordenada (&lt;ul&gt;):</p>
+                <ul>
+                    <li>Utilizada quando a ordem dos itens não é importante.</li>
+                    <li>Os itens são marcados com marcadores, como pontos ou círculos.</li>
+                    <li>Cada item é começado com um elemento &lt;li&gt; (item de lista).</li>
+                </ul>
+                
+                <p>Lista Ordenada (&lt;ol&gt;):</p>
+                <ol>
+                    <li>Utilizada quando a ordem dos itens é importante.</li>
+                    <li>Os itens são numerados automaticamente, geralmente começando com "1".</li>
+                    <li>Cada item é começado com um elemento &lt;li&gt; (item de lista).</li>
+                </ol>
+                
+                <p>Basicamente, a principal diferença entre as duas é que a lista ordenada apresenta os itens em uma sequência numerada, enquanto a lista não ordenada apresenta os itens sem uma sequência específica, geralmente marcando-os com pontos ou círculos.</p>
+                
+            </body>
+            </html>
+            </strong></p>
+        <li><a href="#Índice"> Voltar ao início </a></li>
+
+
+        <h2 id="Link">Links de referências</h2>
+        <ul>
+            <li><a href="http://dio.me"> dio.me</a></li>
+        </ul>
+
+    </body>
+    </html>
